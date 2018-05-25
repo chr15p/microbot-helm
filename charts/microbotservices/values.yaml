@@ -1,0 +1,7 @@
+# Default values for microbotservices.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+host: microbot.51.255.64.68.xip.io
+path: microbot
+
